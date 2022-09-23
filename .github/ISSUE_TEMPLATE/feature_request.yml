@@ -1,20 +1,20 @@
 name: Feature or change request
-description: Request a new capability or change in behavior in dymos.
+description: Request a new capability or change in behavior in Dymos.
 assignees:
   - robfalck
 body:
   - type: textarea
     id: description
     attributes:
-      label: Desired capability or behavior.
-      description: Please explain what is happening and how it differs from the expected behavior.
+      label: Proposed feature.
+      description: Please describe new capability or change in behavior.
     validations:
       required: true
   - type: textarea
     id: example
     attributes:
       label: Example
-      description:  If applicable, please provide a notional use-case demonstrating the desired capability. Alternatively, link to a file in another repository where the capability is demonstrated.
+      description: Please provide an example of how this feature might be used in Dymos.
       render: python
     validations:
       required: false

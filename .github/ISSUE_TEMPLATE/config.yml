@@ -3,4 +3,4 @@ blank_issues_enabled: true
 contact_links:
   - name: Question
     url: https://stackoverflow.com/questions/tagged/openmdao
-    about: "Please use the #openmdao tag on stackoverflow for questions."
+    about: "Please use the #openmdao tag on stackoverflow for questions. (We use the same tag for both OpenMDAO and Dymos questions)"
